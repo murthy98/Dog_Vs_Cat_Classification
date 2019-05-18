@@ -1,0 +1,2 @@
+# Dog_Vs_Cat_Classification
+I am going to show you how to classify images with Convolutional Neural Networks (CNNs) deployed on the Google Colaboratory platform. You will learn the essentials of the image classification systems and the underlying computer vision concepts. After the end of this post, you will be able to create a program that learns how to detect cats, dogs and ultimately anything that is tangible.
